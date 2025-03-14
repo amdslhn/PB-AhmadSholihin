@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "643378297413",
+    "firebase_url": "https://logsignup-69324-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "logsignup-69324",
+    "storage_bucket": "logsignup-69324.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643378297413:android:2890b8fac177881ffd012c",
+        "android_client_info": {
+          "package_name": "com.example.logsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVKf84cocq5uvg4Z7L4ttQEFswh1gcts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
