@@ -13,6 +13,30 @@
         android:theme="@style/Theme.MeowMart"
         tools:targetApi="31">
         <activity
+            android:name=".Calcu"
+            android:exported="false" />
+        <activity
+            android:name=".SupTransaction"
+            android:exported="false" />
+        <activity
+            android:name=".CatatanKeuangan"
+            android:exported="false" />
+        <activity
+            android:name=".ShoppingList"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
+            android:name=".HomeFragment"
+            android:exported="false" />
+        <activity
+            android:name=".Update"
+            android:exported="false" />
+        <activity
             android:name=".ProfileActivity"
             android:exported="false" />
         <activity
